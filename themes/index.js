@@ -336,6 +336,12 @@ const themes = {
     text_color: "61ffca",
     bg_color: "15141b",
   },
+  olivia: {
+    title_color: "fff6f6",
+    icon_color: "ddae9c",
+    text_color: "fff6f6",
+    bg_color: "2b2a28",
+  },
 };
 
 module.exports = themes;
